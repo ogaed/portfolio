@@ -43,8 +43,8 @@ To get a local copy up and running follow these simple example steps.
 
 👤 **Edith Oga**
 
+- GitHub: [@ogaed](https://github.com/ogaed)
 - GitHub: [@vigehi](https://github.com/vigehi)
-
 
 ## 🤝 Contributing
 
